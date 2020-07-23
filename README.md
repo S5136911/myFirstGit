@@ -1,4 +1,4 @@
-#Taxi application
+# Taxi application
 ## project description
  This  application is a platform, In cities where applocation is available, you can use the  app to request a ride. When a nearby driver accepts your request, the app displays an estimated time of arrival for the driver heading to your pickup location.
  ## install instructions
