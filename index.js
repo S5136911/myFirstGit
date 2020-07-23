@@ -1,2 +1,2 @@
-var sum =5+10
-console.log("Hello world!"+sum)
+var numbersum =5+10
+console.log("Hello world!"+numbersum)
