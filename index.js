@@ -1,2 +1,2 @@
 var numbersum =5+10
-console.log("Hello world!"+numbersum)
+console.log( "I caused a merge conflict."+numbersum)
